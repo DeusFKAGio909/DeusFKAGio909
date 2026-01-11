@@ -172,8 +172,8 @@ Mi foco no es “hacer dashboards”: es **reducir riesgo**, **mejorar decisione
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Email: mailto:YOUR_EMAIL
-- Website: https://YOUR_WEBSITE/
+- LinkedIn: https://www.linkedin.com/in/giovanni-ya%C3%B1ez-006547176/
+- Email: mailto:GIOVANNI@PROYECTOSDEINGENIERIA.CL
+- Website: https://PROYECTOSDEINGENIERIA.CL/
 
 <sub>Última actualización: 2026-01-11 (America/Santiago)</sub>
