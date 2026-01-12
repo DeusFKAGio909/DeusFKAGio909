@@ -1,179 +1,103 @@
-<h1 align="center">Giovanni Yañez</h1>
-<p align="center">
-  <b>Founder @ Aether Projects • Data & Decision Engineering • MIP / MSP 2.0 • DevOps / Observability</b><br/>
-  <sub>Chile • Operación global (UE/EE.UU.) • Industria + Datos + Gobierno + Ejecución</sub>
-</p>
+<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="https://YOUR_WEBSITE/">Website</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://ossinsight.io/">OSSInsight</a>
-</p>
-
----
-
-## About me
-Soy **Giovanni Yañez (24, Chile)**. Mi perfil se formó en terreno: industria con alta exigencia, presión operativa y estándares reales, y evolucionó hacia **tecnología aplicada al negocio**.
-
-Trabajo como un híbrido intencional:
-- **MSP 2.0 (operación TI + continuidad)**  
-- **MIP (Managed Intelligence Provider: datos + analítica + decisión)**  
-- **DevOps / Observability (confiabilidad, performance, trazabilidad)**  
-- **Data Engineering / Analytics (pipelines, KPIs, BI, automatización)**
-
-Mi foco no es “hacer dashboards”: es **reducir riesgo**, **mejorar decisiones**, **controlar costos**, **dar visibilidad operacional** y **entregar ejecución medible**.
-
----
-
-## What I do (impacto para industria)
-- **Gobierno y toma de decisiones**: modelos de decisión, métricas, riesgos, trade-offs y seguimiento.
-- **Datos en producción**: captura → limpieza → modelo → métricas → BI → automatización.
-- **Sistemas vivos**: observabilidad, alertas, SLAs/SLOs, incident response, capacity planning.
-- **Modernización operativa**: estandarización, documentación, playbooks, trazabilidad y control.
-
----
-
-## Core competencies
-- Data & Decision Engineering (KPIs, unit economics, forecast, control de gestión)
-- Data Engineering (ETL/ELT, SQL, modelado, calidad de datos, orquestación)
-- DevOps / SRE mindset (deploy, monitoreo, incidentes, automatización)
-- Governance & Security-by-design (marcos y políticas sin fricción operativa)
-
----
-
-# Open Source / GitHub Insights (OSSInsight)
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">
-    <img alt="OSSInsight Widgets" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=light" height="120" />
+  <a href="https://ossinsight.io">
+    <img src="/web/static/img/screenshots/homepage.gif" height="360" alt="OSSInsight Demo" />
   </a>
 </p>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=YOUR_OSSINSIGHT_USER_ID" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats (OSSInsight)" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
+<p align="center">
+  <b>
+    <a href="https://ossinsight.io/explore/">Data Explorer</a>
+    • <a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a>
+    • <a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a>
+    • <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+    • <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+    • <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+    • <a href="https://ossinsight.io/blog">Blog</a>
+    • <a href="https://ossinsight.io/docs">API</a>
+    • <a href="https://twitter.com/OSSInsight">Twitter</a>
+  </b>
+</p>
+
+---
+
+## Introduction
+
+OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing **6+ billion rows** of GitHub events data.
+
+🎦 **Video — OSS Insight: Easiest New Way to Analyze Open Source Software**  
+https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s
+
+---
+
+## Embed Real-time Widget in Repo / Personal README.md (within 30s)
+
+For all charming widgets, please check them here 👉  
+https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral
+
+> Abajo tienes una selección “curada” (los más útiles).  
+> **Tip visual:** si tu README es corto, deja solo 6–8 y el resto en la galería plegable.
+
+### ⭐ Recommended (los que mejor se ven y aportan más)
+| Repository Activity Trends | Star History |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" alt="Repository Activity Trends" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" alt="Star History" /> |
+
+| Active Contributors - Last 28 days | Repository Performance Stats - Last 28 days |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto" alt="Active Contributors (28d)" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" alt="Repo Performance Stats (28d)" /> |
+
+| Star Geographic Distribution | Currently Working On - Last 28 days |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" alt="Star Geographic Distribution" /> | <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" alt="Currently Working On (28d)" /> |
+
+---
+
+<details>
+  <summary><b>📊 Full Widget Gallery (click to expand)</b></summary>
+
+### Collaboration & Delivery
+| Collaborative Productivity - Last 28 days | Top Active Contributors - Last 28 days |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" alt="Collaborative Productivity (28d)" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" alt="Top Active Contributors (28d)" /> |
+
+### Org & Community insights
+| Company Affiliation | Lines of Code Changes |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" alt="Company Affiliation" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" alt="Lines of Code Changes" /> |
+
+### Pull Requests (ideal si tu repo usa PRs activamente)
+| Pull Request Size | Pull Request Lifecycle |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" alt="Pull Request Size" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" alt="Pull Request Lifecycle" /> |
+
+### Rankings & Collections
+| Repository Annual Ranking | Find More |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" alt="Repository Annual Ranking" /> | <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a> |
+
+</details>
+
+---
+
+## Contact us
+
+<p>
+  <a href="https://twitter.com/OSSInsight" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Discussions" />
+  </a>
+  <a href="mailto:ossinsight@pingcap.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## Sponsors
+<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
+  <img src="/web/static/img/tidb-cloud-logo-w.png" height="50" alt="TiDB Cloud" />
 </a>
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=YOUR_OSSINSIGHT_USER_ID" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="Recent Work - Last 28 days (OSSInsight)" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a>
-
-<sub align="center">Made with OSS Insight • Widgets: https://next.ossinsight.io/</sub>
-
----
-
-# Daily stack (producción / consultoría)
-## Systems & Environments
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff)
-![WSL](https://img.shields.io/badge/WSL-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff)
-
-## Automation / Scripting
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=fff)
-
-## Versioning / Delivery
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
-
-## Core languages (used to deliver)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=fff)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=fff)
-
-## Scaling roadmap (productización)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=fff)
-
-## Data / BI
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-
-## Backend / Services
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
-
-## Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=fff)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=fff)
-
-## Governance / Security (operable)
-![ISO](https://img.shields.io/badge/ISO-0D1117?style=for-the-badge&logo=readthedocs&logoColor=fff)
-![NIST](https://img.shields.io/badge/NIST-0D1117?style=for-the-badge&logo=vercel&logoColor=fff)
-
----
-
-# Timeline (real + convincente)
-## Industry foundation
-**2019 – 2021** · Técnico electrónico (entorno de alta criticidad)  
-- Cultura de procedimientos, seguridad, control y trazabilidad.
-
-**2022** · Jefatura / coordinación de proyectos (montaje / construcción industrial)  
-- Gestión de avance, riesgos, presupuesto, coordinación técnica y ejecución.
-
-## Consulting / Tech execution
-**2023 – Presente** · Founder & CEO — Aether Projects (E.I.R.L.)  
-- Operación TI + analítica + automatización para organizaciones que necesitan resultados, control y continuidad.
-- Enfoque: decisiones defendibles, ejecución medible, observabilidad y gobierno práctico.
-
-**2025 – Presente** · Blackground Systems Holding (Chile)  
-- Estructura de holding para escalamiento y participaciones (modelo típico: Sociedad de Inversiones SpA).
-
----
-
-# Education (ordenado como corresponde)
-- **Técnico en Electrónica (4° medio)** — base sólida en sistemas, medición y disciplina técnica.
-- **INACAP (Chile)** — **Técnico de Nivel Superior en Informática**.
-- **Google (programas/certificaciones avanzadas)** — foco en **Data Analytics / Data Engineering** aplicado.
-- **2023** — **Convalidación / continuidad de estudios de Ingeniería** (Ball State / Texas)  
-  Especialización orientada a **datos y soluciones de negocio**.
-
-> Nota: aquí no “me vendo por diplomas”, sino por cómo esa formación se transforma en entrega real.
-
----
-
-# What I'm building (alto nivel)
-- Soluciones de operación y negocio: **ERP/CRM**, automatización, integración y analítica.
-- Plataformas y tooling: **observabilidad**, performance, trazabilidad, monitoreo y reporting.
-- Consultoría ejecutiva: decisiones claras, riesgos visibles, métricas y seguimiento.
-
----
-
-# 2026 → 2028
-- Exportar servicios/soluciones (UE/EE.UU.) con foco en industria (minería/operación).
-- Productizar componentes (sin exponer IP crítica).
-- Escalar tooling (CLI + servicios + UI) con Rust/Go/TS.
-- Aumentar madurez de gobierno/seguridad **sin fricción**.
-
----
-
-# Repo structure (templates)
-- `/templates/` → arquitectura, RACI, riesgos, KPI, decisiones
-- `/playbooks/` → operación (deploy, incidentes, checklist)
-- `/notes/` → decisiones y aprendizajes con contexto
-
----
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/giovanni-ya%C3%B1ez-006547176/
-- Email: mailto:GIOVANNI@PROYECTOSDEINGENIERIA.CL
-- Website: https://PROYECTOSDEINGENIERIA.CL/
-
-<sub>Última actualización: 2026-01-11 (America/Santiago)</sub>
