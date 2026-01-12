@@ -199,71 +199,122 @@ Mi foco no es “hacer dashboards”: es **reducir riesgo**, **mejorar decisione
 
 ---
 
-<!-- ✅ ADD: Featured work (estructura bonita y rellenable) -->
-# Featured work (selected)
-> Reemplaza con tus repos / demos / links. Mantén 3–6 para que se vea premium.
+<!-- ✅ REPLACE: Featured work (selected) -->
+# Stats & Evidence (NDA-safe)
 
-- **[Project / Platform #1]** — 1 línea de valor + link  
-  _Impact:_ [resultado] · _Stack:_ [X,Y,Z]
+> La mayor parte de mis proyectos son **privados / confidenciales** (industria + gobierno).  
+> Por eso muestro **evidencia agregada** (sin exponer clientes, datos sensibles ni IP).
 
-- **[Project / Platform #2]** — 1 línea de valor + link  
-  _Impact:_ [resultado] · _Stack:_ [X,Y,Z]
+## Public footprint (Open Source) — OSSInsight
 
-- **[Project / Platform #3]** — 1 línea de valor + link  
-  _Impact:_ [resultado] · _Stack:_ [X,Y,Z]
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">
+    <img alt="OSSInsight Widgets" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=light" height="120" />
+  </a>
+</p>
 
----
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=YOUR_OSSINSIGHT_USER_ID" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats (OSSInsight)" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-# Timeline (real + convincente)
-## Industry foundation
-**2019 – 2021** · Técnico electrónico (entorno de alta criticidad)  
-- Cultura de procedimientos, seguridad, control y trazabilidad.
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=YOUR_OSSINSIGHT_USER_ID" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="Recent Work - Last 28 days (OSSInsight)" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=YOUR_OSSINSIGHT_USER_ID&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
 
-**2022** · Jefatura / coordinación de proyectos (montaje / construcción industrial)  
-- Gestión de avance, riesgos, presupuesto, coordinación técnica y ejecución.
-
-## Consulting / Tech execution
-**2023 – Presente** · Founder & CEO — Aether Projects (E.I.R.L.)  
-- Operación TI + analítica + automatización para organizaciones que necesitan resultados, control y continuidad.
-- Enfoque: decisiones defendibles, ejecución medible, observabilidad y gobierno práctico.
-
-**2025 – Presente** · Blackground Systems Holding (Chile)  
-- Estructura de holding para escalamiento y participaciones (modelo típico: Sociedad de Inversiones SpA).
-
----
-
-# Education (ordenado como corresponde)
-- **Técnico en Electrónica (4° medio)** — base sólida en sistemas, medición y disciplina técnica.
-- **INACAP (Chile)** — **Técnico de Nivel Superior en Informática**.
-- **Google (programas/certificaciones avanzadas)** — foco en **Data Analytics / Data Engineering** aplicado.
-- **2023** — **Convalidación / continuidad de estudios de Ingeniería** (Ball State / Texas)  
-  Especialización orientada a **datos y soluciones de negocio**.
-
-> Nota: aquí no “me vendo por diplomas”, sino por cómo esa formación se transforma en entrega real.
+<sub align="center">Made with OSS Insight • Widgets: https://next.ossinsight.io/</sub>
 
 ---
 
-# What I'm building (alto nivel)
-- Soluciones de operación y negocio: **ERP/CRM**, automatización, integración y analítica.
-- Plataformas y tooling: **observabilidad**, performance, trazabilidad, monitoreo y reporting.
-- Consultoría ejecutiva: decisiones claras, riesgos visibles, métricas y seguimiento.
+## Private delivery (confidential) — aggregated metrics
+> Reemplaza los valores por números reales (agregados) y listo.  
+> **Regla:** sin nombres de clientes, sin RUT, sin IDs, sin endpoints, sin montos sensibles si hay NDA.
+
+- **Data pipelines / automatizaciones entregadas:** `X+`
+- **Dashboards operativos / control de gestión:** `X+`
+- **KPIs definidos con ownership y fórmula auditables:** `X+`
+- **Procesos estandarizados (SOPs / playbooks / checklists):** `X+`
+- **Alertas / Observabilidad (métricas, logs, umbrales):** `X+`
+- **MTTR (mejora estimada):** `-X%` _(si aplica)_
+- **Tiempo de ciclo / reporting (reducción):** `-X%` _(si aplica)_
 
 ---
 
-# 2026 → 2028
-- Exportar servicios/soluciones (UE/EE.UU.) con foco en industria (minería/operación).
-- Productizar componentes (sin exponer IP crítica).
-- Escalar tooling (CLI + servicios + UI) con Rust/Go/TS.
-- Aumentar madurez de gobierno/seguridad **sin fricción**.
+## Public sector analytics (Chile) — framework (sin exponer IP)
+He desarrollado un **framework de análisis** orientado a decisiones para datos de ecosistemas públicos (ej: mercado público), con foco en **trazabilidad**, **calidad**, **segmentación** y **hallazgos accionables**.
+
+**Indicadores que sí puedes publicar sin romper confidencialidad (ejemplos):**
+- **Cobertura de datos analizados:** `Año_inicio → Año_fin`
+- **Volumen procesado:** `X registros / X GB` (agregado)
+- **Entidades modeladas:** `X proveedores / X compradores / X rubros` (agregado)
+- **Dimensiones analíticas listas:** `rubro, región, institución, proveedor, tiempo, modalidad, etc.`
+- **Calidad de datos:** `% completitud`, `% duplicados`, `% normalización`, etc.
+- **Outputs típicos:** ranking, concentración, canasta de compra, estacionalidad, anomalías.
+
+> Si alguien necesita el detalle, lo conversas **por NDA**.
 
 ---
 
-# Repo structure (templates)
-- `/templates/` → arquitectura, RACI, riesgos, KPI, decisiones
-- `/playbooks/` → operación (deploy, incidentes, checklist)
-- `/notes/` → decisiones y aprendizajes con contexto
+<details>
+  <summary><b>📊 (Opcional) OSSInsight Widget Gallery — si quieres mostrar más</b></summary>
+
+<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+
+<p align="center">
+  <a href="https://ossinsight.io">
+    <img src="/web/static/img/screenshots/homepage.gif" height="360" alt="OSSInsight Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <b>
+    <a href="https://ossinsight.io/explore/">Data Explorer</a>
+    • <a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a>
+    • <a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a>
+    • <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+    • <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+    • <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+    • <a href="https://ossinsight.io/blog">Blog</a>
+    • <a href="https://ossinsight.io/docs">API</a>
+    • <a href="https://twitter.com/OSSInsight">Twitter</a>
+  </b>
+</p>
 
 ---
+
+## Introduction
+
+OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing **6+ billion rows** of GitHub events data.
+
+🎦 **Video — OSS Insight: Easiest New Way to Analyze Open Source Software**  
+https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s
+
+---
+
+## Embed Real-time Widget in Repo / Personal README.md (within 30s)
+
+For all charming widgets, please check them here 👉  
+https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral
+
+### ⭐ Recommended (los que mejor se ven y aportan más)
+| Repository Activity Trends | Star History |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" alt="Repository Activity Trends" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" alt="Star History" /> |
+
+| Active Contributors - Last 28 days | Repository Performance Stats - Last 28 days |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto" alt="Active Contributors (28d)" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" alt="Repo Performance Stats (28d)" /> |
+
+| Star Geographic Distribution | Currently Working On - Last 28 days |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" alt="Star Geographic Distribution" /> | <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" alt="Currently Working On (28d)" /> |
+
+</details>
 
 <!-- ✅ ADD: Working principles -->
 ## Principles (cómo opero)
