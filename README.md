@@ -326,8 +326,8 @@ https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Email: mailto GIOVANNI@PROYECTOSDEINGENIERIA.CL
-- Website: https://www.proyectosdeingenieria.cl/
+- LinkedIn: https://www.linkedin.com/in/giovanniy/
+- Email: mailto:GIOVANNI@PROYECTOSDEINGENIERIA.CL or mailto:giovanni@jjs.cl
+- Website: https://www.proyectosdeingenieria.cl/ or https://www.jjs.cl
 
 <sub>Última actualización: 2026-01-11 (America/Santiago)</sub>
