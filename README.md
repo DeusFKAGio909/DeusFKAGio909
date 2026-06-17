@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=760&lines=Contratista+Digital+%E2%80%94+un+solo+lugar%2C+toda+tu+soluci%C3%B3n;Me+gustan+los+negocios.+Mi+primera+empresa%2C+a+los+18.;Founder+%26+Socio+%C2%B7+Chile+%E2%86%92+UE+%2F+EE.UU." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=760&lines=Founder+%26+Socio+%C2%B7+Chile+%E2%86%92+UE+%2F+EE.UU." alt="Typing SVG" />
 </a>
 
 <p>
@@ -38,7 +38,7 @@
 
 ## 🧩 &nbsp;What I do
 
-Un contratista digital, en la práctica, es esto — **cuatro frentes, un solo responsable:**
+**Cuatro frentes, un solo responsable:**
 
 | Rol | Qué resuelve |
 |-----|--------------|
