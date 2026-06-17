@@ -20,9 +20,6 @@
 
 </div>
 
-> **Contratista digital: como un contratista de obra, pero para tu proyecto tecnológico.**
-> Hablás conmigo y yo levanto todo —sea cual sea la tecnología—: armo el proyecto, asumo el riesgo y la responsabilidad, y te lo entrego funcionando. No contratás cinco proveedores: una sola empresa para toda la solución.
-
 <div align="center">
 
 <sub><b>VENTURES</b></sub>
