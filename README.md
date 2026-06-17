@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=760&lines=Contratista+Digital+%E2%80%94+un+solo+lugar%2C+toda+tu+soluci%C3%B3n;Me+gustan+los+negocios.+Mi+primera+empresa%2C+a+los+18.;Founder+%40+Aether+Projects+%C2%B7+Chile+%E2%86%92+UE+%2F+EE.UU." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=760&lines=Contratista+Digital+%E2%80%94+un+solo+lugar%2C+toda+tu+soluci%C3%B3n;Me+gustan+los+negocios.+Mi+primera+empresa%2C+a+los+18.;Founder+%26+Socio+%C2%B7+Chile+%E2%86%92+UE+%2F+EE.UU." alt="Typing SVG" />
 </a>
 
 <p>
@@ -22,6 +22,17 @@
 
 > **Contratista digital: un solo lugar para tus datos, tus sistemas y tus decisiones.**
 > Me metí en los negocios temprano —mi primera empresa a los 18— y desde entonces trabajo adentro de empresas reales. Resuelvo cosas concretas, sin vender humo.
+
+<div align="center">
+
+<sub><b>VENTURES</b></sub>
+<br/>
+<img alt="Zenobia Labs" src="https://img.shields.io/badge/2019-Zenobia%20Labs%20%C2%B7%20Founder-0D1117?style=flat-square&labelColor=00B4FF" />
+<img alt="Aether Projects" src="https://img.shields.io/badge/2023-Aether%20Projects%20%C2%B7%20Founder-0D1117?style=flat-square&labelColor=00B4FF" />
+<img alt="JJ Solutions" src="https://img.shields.io/badge/2026-JJ%20Solutions%20%C2%B7%20Socio-0D1117?style=flat-square&labelColor=00B4FF" />
+<img alt="CIT Aether Tech" src="https://img.shields.io/badge/2027-CIT%20Aether%20Tech-0D1117?style=flat-square&labelColor=00B4FF" />
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,6,0" alt="divider" />
 
