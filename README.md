@@ -30,7 +30,6 @@
 <img alt="Zenobia Labs" src="https://img.shields.io/badge/2019-Zenobia%20Labs%20%C2%B7%20Founder-0D1117?style=flat-square&labelColor=00B4FF" />
 <img alt="Aether Projects" src="https://img.shields.io/badge/2023-Aether%20Projects%20%C2%B7%20Founder-0D1117?style=flat-square&labelColor=00B4FF" />
 <img alt="JJ Solutions" src="https://img.shields.io/badge/2026-JJ%20Solutions%20%C2%B7%20Socio-0D1117?style=flat-square&labelColor=00B4FF" />
-<img alt="CIT Aether Tech" src="https://img.shields.io/badge/2027-CIT%20Aether%20Tech-0D1117?style=flat-square&labelColor=00B4FF" />
 
 </div>
 
