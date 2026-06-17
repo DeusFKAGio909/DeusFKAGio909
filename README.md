@@ -2,7 +2,7 @@
 <!-- ║                     HERO — animated banner                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=24,20,12,6,0&text=Giovanni%20Ya%C3%B1ez&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20%26%20Decision%20Engineering%20%C2%B7%20MSP%202.0%20%C2%B7%20MIP%20%C2%B7%20DevOps%20%2F%20Observability&descSize=17&descAlignY=56&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=24,20,12,6,0&text=Giovanni%20Ya%C3%B1ez&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20%26%20Decision%20Engineering%20%C2%B7%20MSP%202.0%20%C2%B7%20MIP%20%C2%B7%20DevOps%20%2F%20Observability&descSize=17&descAlignY=56&animation=fadeIn&reversal=false" alt="header" />
 
 <div align="center">
 
@@ -116,8 +116,6 @@ Híbrido intencional — **cuatro roles, un objetivo: menos riesgo, mejores deci
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DeusFKAGio909&hide_border=true&theme=tokyonight&background=0D1117&ring=00B4FF&fire=00B4FF&currStreakLabel=00B4FF" alt="GitHub streak" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeusFKAGio909&bg_color=0D1117&color=00B4FF&line=00B4FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=DeusFKAGio909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeusFKAGio909/DeusFKAGio909/output/github-snake-dark.svg" />
