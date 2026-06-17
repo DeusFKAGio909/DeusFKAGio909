@@ -2,12 +2,12 @@
 <!-- ║                     HERO — animated banner                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=24,20,12,6,0&text=Giovanni%20Ya%C3%B1ez&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20%26%20Decision%20Engineering%20%C2%B7%20MSP%202.0%20%C2%B7%20MIP%20%C2%B7%20DevOps%20%2F%20Observability&descSize=17&descAlignY=56&animation=fadeIn&reversal=false" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=24,20,12,6,0&text=Giovanni%20Ya%C3%B1ez&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Contratista%20Digital%20%C2%B7%20Un%20solo%20lugar%2C%20toda%20tu%20soluci%C3%B3n&descSize=18&descAlignY=56&animation=fadeIn&reversal=false" alt="header" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=760&lines=Convierto+operaci%C3%B3n+y+datos+en+decisiones+defendibles;Reduzco+riesgo.+Mejoro+decisiones.+Entrego+ejecuci%C3%B3n.;Founder+%40+Aether+Projects+%C2%B7+Chile+%E2%86%92+UE+%2F+EE.UU." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=760&lines=Contratista+Digital+%E2%80%94+un+solo+lugar%2C+toda+tu+soluci%C3%B3n;Me+gustan+los+negocios.+Mi+primera+empresa%2C+a+los+18.;Founder+%40+Aether+Projects+%C2%B7+Chile+%E2%86%92+UE+%2F+EE.UU." alt="Typing SVG" />
 </a>
 
 <p>
@@ -20,8 +20,8 @@
 
 </div>
 
-> **Si un negocio necesita *orden, visibilidad y control* para operar y crecer — ahí encajo.**
-> Datos + operación TI + observabilidad + gobierno práctico: lo justo técnico para ejecutar, lo justo negocio para decidir.
+> **Contratista digital: un solo lugar para tus datos, tus sistemas y tus decisiones.**
+> Me metí en los negocios temprano —mi primera empresa a los 18— y desde entonces trabajo adentro de empresas reales. Resuelvo cosas concretas, sin vender humo.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,6,0" alt="divider" />
 
@@ -31,7 +31,7 @@
 
 ## 🧩 &nbsp;What I do
 
-Híbrido intencional — **cuatro roles, un objetivo: menos riesgo, mejores decisiones, control real.**
+Un contratista digital, en la práctica, es esto — **cuatro frentes, un solo responsable:**
 
 | Rol | Qué resuelve |
 |-----|--------------|
